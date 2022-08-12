@@ -3,4 +3,4 @@
 3. Stock Code
 4.Report Code
 5. Accounts Code
-6. Payroll Code with manual only
+6. Payroll Code with manual and machine
