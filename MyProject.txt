@@ -1,0 +1,4 @@
+1. Sales code
+2. Purchase code
+3. Stock Code
+4.Report Code
